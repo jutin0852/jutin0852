@@ -14,8 +14,6 @@ that catch it when they do.
   with Playwright end-to-end, visual-regression and accessibility tests.
 - **[Portfolio](https://github.com/jutin0852/portfolio)** ([live](https://portfolio-jutin0852s-projects.vercel.app))
   Interactive 3D portfolio built with React and Vite.
-- **[Audiophile](https://github.com/jutin0852/audiophile)**
-  E-commerce site with a Convex backend and emailed order confirmations.
 
 ## Stack
 **Front end:** React, Next.js, React Native, Tailwind
