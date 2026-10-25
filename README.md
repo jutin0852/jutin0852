@@ -11,8 +11,6 @@ that catch it when they do.
   inventory reservations, customer accounts, admin dashboard and invoicing.
 - **[Portfolio](https://github.com/jutin0852/portfolio)** ([live](https://portfolio-jutin0852s-projects.vercel.app))
   Interactive 3D portfolio built with React and Vite.
-- **[Personal Chess Coach](https://github.com/jutin0852/personal-chess-coach)**
-  Automated pipeline: Chess.com sync → Stockfish analysis → Supabase → Discord report.
 - **[Audiophile](https://github.com/jutin0852/audiophile)**
   E-commerce site with a Convex backend and emailed order confirmations.
 
